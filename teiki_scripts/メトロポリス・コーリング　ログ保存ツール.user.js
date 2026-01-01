@@ -23,7 +23,7 @@
     'use strict';
 
     // 設定
-    const FETCH_INTERVAL = 1000; // 1ページ取得ごとの待機時間(ms)
+    const FETCH_INTERVAL = 2000; // 1ページ取得ごとの待機時間(ms)
     const BACKGROUND_IMAGE_URL = 'https://metropolis-c-openbeta.sakuraweb.com/images/back.png';
 
     // 状態管理用変数
