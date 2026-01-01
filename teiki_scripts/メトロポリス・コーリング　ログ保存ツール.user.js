@@ -5,7 +5,7 @@
 // @description  チャットルームのログを複数ページ分取得し、保存しやすくするツール
 // @author       ayautaginrei
 // @match        https://metropolis-c-openbeta.sakuraweb.com/room.php*
-// @updateURL
+// @updateURL    https://github.com/ayautaginrei/toolbox/raw/refs/heads/main/teiki_scripts/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%80%80%E3%83%AD%E3%82%B0%E4%BF%9D%E5%AD%98%E3%83%84%E3%83%BC%E3%83%AB.user.js
 // @grant        none
 // ==/UserScript==
 
